@@ -41,13 +41,16 @@ I'm a fourth-year Computer Science student at Toronto Metropolitan University wi
 
 ## 🚀 Featured Project
 
-### [NBA Predictive Analytics Platform](https://github.com/mithun-s14)
+### [NBA Predictive Analytics Platform](https://huggingface.co/spaces/mithun14/prop-model)
 An end-to-end ML platform that predicts NBA player statistics using an ensemble of 6 models (Linear, Bayesian, Random Forest, XGBoost, Gradient Boosting, LightGBM) trained on 500+ active players. Features an automated daily data pipeline via GitHub Actions, a Gradio interface with real-time predictions under 2s, and is deployed on Hugging Face Spaces with CI/CD and zero downtime.
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](./profile/stats.svg)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithun-s14&" alt="mithun-s14" /></p> -->
+
+![Top Languages](./profile/top-langs.svg)
+
 
 ---
 
