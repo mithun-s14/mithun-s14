@@ -47,7 +47,7 @@ An end-to-end ML platform that predicts NBA player statistics using an ensemble 
 ---
 
 ## 📊 GitHub Stats
-[![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun-s14)](https://github.com/anuraghazra/github-readme-stats)
+[![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun-s14)](https://github.com/mithun-s14/github-readme-stats)
 
 
 ---
