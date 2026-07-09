@@ -17,6 +17,9 @@ An end-to-end ML platform that predicts NBA player statistics using an ensemble 
 ### [Fantasy Basketball Companion](https://fantasy-basketball-companion.vercel.app/)
 Full-stack web application for fantasy basketball enthusiasts featuring a schedule analyzer, AI-powered (Gemini) coach, roster management, and matchup analysis in a unified platform.
 
+### [SimpleBL](https://mithun-s14.github.io/SimpleBL/)
+Evidence-based fitness research assistant that surfaces peer-reviewed literature fromo PubMed over regular google searches to help lifters make informed decisions
+
 ---
 
 ## 📊 GitHub Stats
