@@ -21,17 +21,3 @@ Full-stack web application for fantasy basketball enthusiasts featuring a schedu
 Evidence-based fitness research assistant that surfaces peer-reviewed literature fromo PubMed over regular google searches to help lifters make informed decisions
 
 ---
-
-## 📊 GitHub Stats
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithun-s14&" alt="mithun-s14" /></p> -->
-
-![Top Languages](./profile/top-langs.svg)
-
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-sivapathasundram/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mithun-s14.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithunsivapathasundram@gmail.com)
