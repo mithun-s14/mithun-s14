@@ -9,7 +9,7 @@ I'm a Computer Science graduate from Toronto Metropolitan University with intere
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [NBA Predictive Analytics Platform](https://huggingface.co/spaces/mithun14/prop-model)
 An end-to-end ML platform that predicts NBA player statistics using an ensemble of 6 models (Linear, Bayesian, Random Forest, XGBoost, Gradient Boosting, LightGBM) trained on 500+ active players. Features an automated daily data pipeline via GitHub Actions, a Gradio interface with real-time predictions under 2s, and is deployed on Hugging Face Spaces with CI/CD and zero downtime.
