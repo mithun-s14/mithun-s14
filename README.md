@@ -2,7 +2,6 @@
 
 I'm a Computer Science graduate from Toronto Metropolitan University with interests in full-stack development, data engineering, and machine learning. I enjoy building software that is clean, scalable, and performant.
 
-- Honours Bachelor of Computer Science (Co-op) @ TMU
 - Internship experience at Environment and Climate Change Canada and Ontario Ministry of Treasury Board Secretariat
 - Built out a prediction platform and fantasy basketball tool to help players win their leagues
 - Building and learning across the AI stack
