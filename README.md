@@ -11,7 +11,7 @@ I'm a Computer Science graduate from Toronto Metropolitan University with intere
 ## Featured Projects
 
 ### [NBA Predictive Analytics Platform](https://prop-model.onrender.com/)
-An end-to-end ML platform that predicts NBA player statistics using an ensemble of 6 models (Linear, Bayesian, Random Forest, XGBoost, Gradient Boosting, LightGBM) trained on 500+ active players. Features an automated daily data pipeline via GitHub Actions, a Gradio interface with real-time predictions under 2s, and is deployed on Render (Prev on Hugging Face Spaces) with CI/CD and zero downtime.
+An end-to-end ML platform that predicts NBA player statistics using an ensemble of 6 models (Linear, Bayesian, Random Forest, XGBoost, Gradient Boosting, LightGBM) trained on 500+ active players. Features an automated daily data pipeline via GitHub Actions, a Gradio interface with real-time predictions under 2s, and is deployed on Render (previously on Hugging Face Spaces) with CI/CD and zero downtime.
 
 ### [Fantasy Basketball Companion](https://fantasy-basketball-companion.vercel.app/)
 Full-stack web application for fantasy basketball enthusiasts featuring a schedule analyzer, AI-powered (Gemini) coach, roster management, and matchup analysis in a unified platform.
